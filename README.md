@@ -6,7 +6,7 @@ A Data Science enthusiast with a knack for transforming raw data into compelling
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [priyalvaidya.311@gmail.com](mailto:priyalvaidya.311@gmail.com)
 * 🧠  I'm learning NLP while also exploring advanced Python subjects to enhance my skills further.
-* ⚡  In search of a good kickstart in Data Science.
+* ⚡  I'm currently working on a Django Project.
 
 ### Skills
 
