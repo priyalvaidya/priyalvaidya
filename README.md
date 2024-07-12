@@ -3,7 +3,7 @@
 ![Custom Banner](https://github.com/priyalvaidya/priyalvaidya/blob/main/img.png)
 
 
-============================================================================================
+========================================================================================
 
 A Data Science enthusiast with a knack for transforming raw data into compelling stories.
 
