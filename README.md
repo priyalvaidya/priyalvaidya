@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyal Vaidya
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) introducing myself,
+
+<img src="C:\Users\KIIT\Downloads\img.png" width="2000" height="250"/>
 =====================================================================================================================================
 
 A Data Science enthusiast with a knack for transforming raw data into compelling stories.
